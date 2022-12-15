@@ -11,6 +11,7 @@ I am a full-stack software engineer. I love programming and languages.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
+![image](https://user-images.githubusercontent.com/29612029/207943614-fee09a88-7613-4b1e-97ff-4e959d1d87b2.jpg)
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -24,20 +25,10 @@ No activity tracked
 
 📈 **My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasonsmv&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jasonsmv&show_icons=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonsmv&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>\
 
 
