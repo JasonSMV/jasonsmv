@@ -7,9 +7,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Jeison.Martinez)
 
-I am a full-stack software engineer. I love programming and languages. 
+I'm a software developer and a hobbyist language learner.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 ![image](https://user-images.githubusercontent.com/29612029/207943614-fee09a88-7613-4b1e-97ff-4e959d1d87b2.jpg)
 
