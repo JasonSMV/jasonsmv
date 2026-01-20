@@ -8,7 +8,7 @@
 #### Glad to see you here! &nbsp;
 -->
 
-I'm a software developer and a hobbyist language learner. I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+I'm a software developer and a hobbyist language learner. I like to make things that make a difference.
 
 ![image](https://user-images.githubusercontent.com/29612029/207943614-fee09a88-7613-4b1e-97ff-4e959d1d87b2.jpg)
 
